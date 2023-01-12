@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Shudhanshu</h1>
-<h3 align="left">A passionate fullstack developer from India</h3>
+<!-- <h3 align="left">A passionate fullstack developer from India</h3> -->
 
 <a href="https://app.daily.dev/gshudhanshu"><img src="https://api.daily.dev/devcards/fd010e20c5d04108a3c6e7544cdfb811.png?r=zeh" width="400" alt="Shudhanshu Gunjal's Dev Card"/></a>
 
