@@ -1,47 +1,57 @@
-<h1 align="left">Hi 👋, I'm Shudhanshu</h1>
-<h3 align="left">Fullstack Developer | AI/ML Engineer | Graphic Designer</h3>
+<h1 align="left">Hi 👋, I'm Shudhanshu Gunjal</h1>
+<h3 align="left">Software Engineer | Full-Stack Developer | AI/ML | Graphic Designer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gshudhanshu&label=Profile%20views&color=0e75b6&style=flat" alt="gshudhanshu" />
+  <a href="https://gshudhanshu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gshudhanshu.vercel.app-000000?logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shudhanshu-gunjal/"><img src="https://img.shields.io/badge/LinkedIn-Shudhanshu%20Gunjal-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gunjalshudhanshu@gmail.com"><img src="https://img.shields.io/badge/Email-gunjalshudhanshu%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gshudhanshu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gshudhanshu&theme=algolia&no-frame=true&row=1&column=6" alt="trophies" />
-  </a>
-</p>
+Full-stack software engineer with **6+ years** building scalable web apps, REST APIs and automation, and **9+ years** in graphic design. Based in Pune, India, open to remote or on-site roles.
+
 
 ---
 
-### 🚀 About Me
-- 💻 Passionate about **Fullstack Development & AI/ML**
-- 🎨 Experienced in **Graphic Design & UI/UX**
-- 📱 Building **scalable apps** and experimenting with **automation tools**
-- 🌱 Currently exploring **advanced AI/ML projects**
+### 🛠️ Tech stack
+
+| Area | Tools |
+|------|-------|
+| **Languages** | Python, TypeScript, JavaScript, C++, C#, SQL |
+| **Backend & APIs** | FastAPI, Django, Flask, Node.js, Express, REST APIs, WebSockets |
+| **Frontend & mobile** | React, Next.js, React Native, Redux, Zustand, Tailwind CSS, Framer Motion |
+| **AI / ML** | PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib, LLM evaluation |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase |
+| **Cloud & DevOps** | AWS, Docker, GitHub Actions, CI/CD, Vercel, Linux |
+| **Testing** | Playwright, Jest, Pytest |
+| **Automation & design** | Zapier, Google Apps Script, Figma, Adobe Creative Suite |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,ts,js,cpp,cs,react,nextjs,redux,tailwind,pytorch,tensorflow,sklearn,postgres,mysql,mongodb,redis,supabase,firebase,aws,docker,githubactions,vercel,linux,git,figma,ps,ai&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,ts,js,cpp,cs,react,nextjs,redux,tailwind,pytorch,tensorflow,sklearn,postgres,mysql,mongodb,redis,supabase,firebase,aws,docker,githubactions,vercel,linux,git,figma,ps,ai&theme=light&perline=11" alt="Tech stack icons" />
+</picture>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>
+### 🚀 Featured projects
+
+| Project | What it does | Built with | Links |
+|---------|--------------|------------|-------|
+| **SocialCom** | Online storefront for businesses: customers browse, order and pay on the web, and every order lands on the business's WhatsApp, managed from a real-time admin dashboard | Next.js, TypeScript, Supabase, WhatsApp Cloud API | [Live](https://socialcom.weare360marketing.com/) |
+| **HealthMate** | Healthcare platform: appointment scheduling, medical records, real-time messaging and video consultations | Next.js, TypeScript, Django REST, PostgreSQL, Redis, WebRTC, Docker | [Live](https://cm3070-final-project-healthmate.vercel.app) · [Code](https://github.com/gshudhanshu/cm3070-final-project-healthmate) · [Video](https://youtu.be/dp5zZOwjSbM) |
+| **BOSL Global Investment Fund** | Production website for a Saint Lucia mutual fund company offering three USD funds with daily NAV | Next.js, TypeScript, Chakra UI, MDX | [Live](https://bosl-mutual-fund.vercel.app) |
+| **Calm Mind** | Cross-platform app for mood tracking, guided meditation and journaling, with offline support and cloud sync | React Native, Expo, Firebase, D3.js | [Code](https://github.com/gshudhanshu/cm3050-mobile-development) |
+| **Music Visualizer** | Five audio-reactive visualizations, including a 3D scene | p5.js, three.js | [Live](https://music-vis.vercel.app/) · [Code](https://github.com/gshudhanshu/musicVis) |
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gshudhanshu&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gshudhanshu&theme=tokyonight" alt="streak" />
-</p>
+### 📊 GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gshudhanshu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gshudhanshu&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gshudhanshu&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gshudhanshu&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" />
+</picture>
